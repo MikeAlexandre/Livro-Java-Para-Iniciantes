@@ -1,4 +1,4 @@
-public class ShowBits {
+public class ShowBitss {
     public static void main(String[] args) {
         int t;
         byte val;
